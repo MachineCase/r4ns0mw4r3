@@ -9,5 +9,5 @@ python3 encrypt.py local
 ```
 ```bash
 #Comando utilizado para descriptografar os arquivos
-python3 decrypt local
+python3 decrypt.py local
 ```
