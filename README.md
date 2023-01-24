@@ -1,5 +1,5 @@
 # r4ns0mw4r3
-Este é um código escrito em Python para demonstrar como funiona um ataque de Ransomware.
+Este é um código escrito em Python para demonstrar como funiona um ataque de Ransomware. <br>
 O código é composto pelo encrypt e decrypt.
 
 ```bash
