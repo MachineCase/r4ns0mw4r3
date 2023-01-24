@@ -1,4 +1,6 @@
 # r4ns0mw4r3
+Este é um código escrito em Python para demonstrar como funiona um ataque de Ransomware.
+O código é composto pelo encrypt e decrypt.
 
 ```bash
 git clone https://github.com/MachineCase/r4ns0mw4r3
